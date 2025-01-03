@@ -1,0 +1,2 @@
+Speed_MAE	Angle_MAE	Speed_MRE	Angle_MRE
+6.309900 	0.097400 	1.56%	6.78%

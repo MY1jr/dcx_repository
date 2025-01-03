@@ -1,0 +1,26 @@
+# 忽略数据集目录
+NN_py/dcx/
+NN_py/dcx_mini/
+NN_py/dcx_test/
+
+# 忽略模型文件（.pth 和 .pkl 文件）
+**/*.pth
+**/*.pkl
+
+# 忽略视频及部分图片
+**/*.mp4
+NN_py/circle_detection/circle_pic/
+#**/*.png
+
+NN_py/NN_test_py/pth/
+NN_py/NN_test_py/best.pth
+NN_py/NN_test_py/predict.pth
+NN_py/circle_detection/kmeans_model_3.pkl
+NN_py/circle_detection/kmeans_model_4.pkl
+NN_py/circle_detection/weight/
+NN_py/circle_detection/circlenet/pth/
+
+# 忽略临时文件
+*.log
+*.tmp
+
