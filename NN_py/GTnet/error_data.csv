@@ -1,0 +1,7 @@
+epoch,speed_mae,angle_mae,speed_mre,angle_mre
+1,60.232235,0.253487,10.0387%,4.0344%
+2,46.240490,0.513055,7.7067%,8.1655%
+Speed_MAE: 53.236362
+Angle_MAE: 0.383271
+Speed_MRE: 8.8727%
+Angle_MRE: 6.0999%
